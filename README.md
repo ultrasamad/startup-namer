@@ -1,6 +1,6 @@
 # startup-namer
 
-This the Startup name generator Flutter App re-built with Vue 3
+This the Startup name generator Flutter App re-built with Vue 3 for Mobile
 
 See [Flutter version](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1)
 

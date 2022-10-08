@@ -12,7 +12,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <main class="h-[calc(100vh-4rem)] overflow-y-auto divide-y">
+  <main class="h-[calc(100vh-4rem)] overflow-y-auto divide-y md:px-12">
     <RowItem v-for="item in store.wordList" :word="item" :key="item.name" />
   </main>
 </template>
